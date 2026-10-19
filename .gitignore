@@ -1,1 +1,28 @@
-*xlsx
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+
+# Drivers baixados manualmente (o Selenium Manager resolve automaticamente)
+webdriver/
+*.exe
+*.zip
+
+# Planilhas com dados reais (contatos) e resultados das execuções
+*.xlsx
+!message_list.example.xlsx
+*.csv
+!message_list.example.csv
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
