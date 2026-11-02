@@ -32,8 +32,8 @@ Números sem WhatsApp (aviso "O número de telefone compartilhado por url é inv
 ### 2. Instalação
 
 ```bash
-git clone https://github.com/CaioNepomuceno2/whatsapp-bot-automacao.git
-cd whatsapp-bot-automacao
+git clone https://github.com/CaioNepomuceno2/RoboWhatsapp.git
+cd RoboWhatsapp
 
 python -m venv .venv
 # Windows
